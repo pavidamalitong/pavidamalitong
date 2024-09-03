@@ -22,15 +22,16 @@
 
 ###
 
-<h2 align="left">👩‍💻  I'm Pavida Malitong</h2>
+<h2 align="left">👩‍💻  My name is Pavida Malitong</h2>
 
 ###
 
-<h4 align="left">A Senior Digital Engineering student, Minor in Data Science<br><br>- 📚 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<br><br>I’m looking for a Cooperative Internship in 2025 ✨<br><br>Please contact me via Email or LinkedIn provided above ⏫</h4>
+<h4 align="left"><h3>A Senior Digital Engineering student, Minor in Data Science</h3>- 📊 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<h3>I’m looking for a Cooperative Internship in 2025 ✨</h3>Please contact me via Email or LinkedIn provided above ⏫</h4>
+<br><br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -78,7 +79,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
