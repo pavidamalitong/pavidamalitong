@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left"><h3>A Senior Digital Engineering student, Minor in Data Science</h3>- 📊 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<h3>I’m looking for a Cooperative Internship in 2025 ✨</h3>Please contact me via Email or LinkedIn provided above ⏫</h4>
+<h4 align="left"><h3>A Senior Digital Engineering student, Minor in Data Science. <br>Currently an Software Engineer Intern at Agoda Services Co., Ltd.</h3>- 📊 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<h3>I’m looking for a Full-time/Contract position in Software Development or Data-related fields✨</h3>Please contact me via Email or LinkedIn provided above ⏫</h4>
 <br><br>
 
 ###
@@ -31,6 +31,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
