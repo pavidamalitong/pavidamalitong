@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left"><h3>A Senior Digital Engineering student, Minor in Data Science. <br>Currently an Software Engineer Intern at Agoda Services Co., Ltd.</h3>- 📊 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<h3>I’m looking for a Full-time/Contract position in Software Development or Data-related fields✨</h3>Please contact me via Email or LinkedIn provided above ⏫</h4>
+<h4 align="left"><h3>A Digital Engineering Graduate, Minor in Data Science. <br>Currently a Contract Software Engineer (Full-stack) at Agoda Services Co., Ltd.</h3>- 📊 Former Data Visualization Intern at NECTEC of NSTDA<br>- ⚡ Former Software Developer Intern at Playtorium Solution Co., Ltd.<h3>I’m looking for a Full-time position in Software Development or Data-related fields✨</h3>Please contact me via Email or LinkedIn provided above ⏫</h4>
 <br><br>
 
 ### 🙌 [CLICK HERE to see My Portfolio Website](https://pavida-malitong.netlify.app/) 🙌
